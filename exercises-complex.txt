@@ -1,0 +1,41 @@
+\documentclass[11pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+% Definición de entornos para Teoremas y Demostraciones
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{exercise}{Ejercicio}
+\renewcommand{\qedsymbol}{$\blacksquare$} % Cuadro negro al terminar la demostración
+
+\title{\textbf{Resolución de Ejercicios}\\ \large How to Prove It / Complex Variables}
+\author{LuisAngel - Centro de Investigación en Ciencias (CInC)}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Capítulo 1: Lógica Proposicional y Conjuntos}
+
+\begin{exercise}
+Sea $A$ y $B$ conjuntos. Demostrar que si $A \subseteq B$, entonces $A \cup B = B$.
+\end{exercise}
+
+\begin{proof}
+Supongamos que $A \subseteq B$. Debemos demostrar que $A \cup B = B$.
+Por definición de igualdad de conjuntos, esto requiere probar dos cosas:
+\begin{enumerate}
+    \item $A \cup B \subseteq B$
+    \item $B \subseteq A \cup B$
+\end{enumerate}
+(Aquí va el resto de tu desarrollo matemático usando $x \in A \implies x \in B$).
+\end{proof}
+
+\section*{Capítulo 2: Variables Complejas (Churchill)}
+% Usa \mathbb{C} para los números complejos
+Para cualquier $z \in \mathbb{C}$ donde $z = x + iy$, el módulo se define como $|z| = \sqrt{x^2 + y^2}$.
+
+\end{document}
