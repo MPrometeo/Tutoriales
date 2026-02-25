@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1772004398 "/media/luisangel/PUENTE_DATA/Tutoriales/plantilla.tex" "plantilla.pdf" "plantilla" 1772004398
-  "%OUTDIR%/plantilla.aux" 1772004398 32 3985256e7290058c681f74d7a3565a19 ""
+["pdflatex"] 1772005303 "/media/luisangel/PUENTE_DATA/Tutoriales/plantilla.tex" "plantilla.pdf" "plantilla" 1772005303
+  "%OUTDIR%/plantilla.aux" 1772005303 32 3985256e7290058c681f74d7a3565a19 ""
   "/etc/texmf/web2c/texmf.cnf" 1726161364 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -61,7 +61,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1726169527 165063 5cfe6caa49b6c427d8ae5cff2e180595 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769755409 1435901 fbaf59e0699a097acc228d4ff121f789 ""
-  "plantilla.tex" 1772004398 1359 80c1ff854f0ee7d45fc1e79d8dc69f99 ""
+  "plantilla.tex" 1772005302 1424 56629f50681ee3734e90d10f9ac18efe ""
   (generated)
   "%OUTDIR%/plantilla.log"
   "plantilla.aux"

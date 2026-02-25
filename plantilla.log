@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.1.30)  25 FEB 2026 01:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.1.30)  25 FEB 2026 01:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -216,7 +216,17 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Overfull \hbox (121.53343pt too wide) in paragraph at lines 28--30
+[]\OT1/cmr/m/n/10.95 Supongamos que $\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 ^^R \OML/cmm/m/it/10.95 B$\OT1/cmr/m/n/10.95 . Debemos demostrar que $\OML/cmm/m/it/10.95 A \OMS/cmsy/m/n/10.95 [ \OML/cmm/m/it/10.95 B \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 B$\OT1/cmr/m/n/10.95 . PUTODFAFSAFASFSAFDSAFSAFASFSADFDAS
+ []
+
+
+Overfull \hbox (94.01569pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10.95 Por definici^^Son de igualdad de conjuntos, esto requiere probar dos cosas:DFAFSAFASFSAFDSAFSAFASFSADFDAS 
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (%OUTDIR%/plantilla.aux) ) 
 Here is how much of TeX's memory you used:
@@ -228,7 +238,7 @@ Here is how much of TeX's memory you used:
  59 hyphenation exceptions out of 8191
  55i,7n,62p,266b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on plantilla.pdf (1 page, 116151 bytes).
+Output written on plantilla.pdf (1 page, 116890 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
